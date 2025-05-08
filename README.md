@@ -56,3 +56,22 @@ After analyzing the data, the recommended top three cities for new store opening
 3. Average sales per customer is better at 11.6k.
 
 ---
+
+## How to Use
+
+1. **Clone the Repository**: Clone this project repository from GitHub.
+2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
+3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
+4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+
+## Author - Anurag Mishra
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+
+- **LinkedIn**: [Connect with me professionally]([https://www.linkedin.com/in/anurag-mishra-b17051288/]
+
+Thank you for your support, and I look forward to connecting with you!
+And don't hesitate to give me suggestions for better improvment.
+
